@@ -1,6 +1,6 @@
 Header
 
-<img src="assets/banner.jpg" alt="Banner" width="500" height="300"/>
+<img src="assets/gitbanner.jpg" alt="Banner"  />
 
 <!-- ![banner](https://github.com/Olena457/Olena457/blob/main/assets/banner.jpg) -->
 
