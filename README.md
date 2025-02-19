@@ -23,13 +23,7 @@ _Hello!_<br>_My name is Olena._<br>_I am a Junior Frontend Developer with solid 
 
 ### 📶 GitHub stats:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olena457&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 300px;">
-
-<div style="display: flex;  gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Olena457&hide=issues&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Olena's GitHub stats" style="height: 200px; width: 300px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Olena457&theme=dark&hide_border=false" alt="GitHub Streak" style="height: 200px; width: 300px;">
-</div>
-<br/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Olena457&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=Olena457&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=Olena&icon=1&color=0)](https://visitcount.itsvg.in)
 [![Olena457 profile views](https://u8views.com/api/v1/github/profiles/113780412/views/day-week-month-total-count.svg)](https://u8views.com/github/Olena457)
