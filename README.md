@@ -33,8 +33,3 @@ _Hello!_<br>_My name is Olena._<br>_I am a Junior Frontend Developer with solid 
 
 [![](https://visitcount.itsvg.in/api?id=Olena&icon=1&color=0)](https://visitcount.itsvg.in)
 [![Olena457 profile views](https://u8views.com/api/v1/github/profiles/113780412/views/day-week-month-total-count.svg)](https://u8views.com/github/Olena457)
-
-<!-- ![Olena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olena457&hide=issues&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Olena457&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Olena457&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
