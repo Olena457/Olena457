@@ -1,13 +1,5 @@
 <div>
-    <img src="assets/banner.jpg" alt="Banner" style="width: 100%; margin-bottom: 10px;">
-
-<div style="display: block; ">
-    <div>
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2pseTN6MjVsNDdpbzhiazNuc2hrZWI3MzltZTExOXltMzBtYnQ5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ekjmhJUGHJm7FC4Juo/giphy.gif" alt="Female Coder" style="max-width: 380px; height: 220px">
-        <p>Right now</p>
-    </div>
-   
-</div>
+    <img src="assets/banner.jpg" alt="Banner" style="width: 100%; ">
 
 ## 💫 About me:
 
@@ -24,6 +16,3 @@ _Hello!_<br>_My name is Olena._<br>_I am a Junior Frontend Developer with solid 
 ### 📶 GitHub stats:
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Olena457&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=Olena457&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-[![](https://visitcount.itsvg.in/api?id=Olena&icon=1&color=0)](https://visitcount.itsvg.in)
-[![Olena457 profile views](https://u8views.com/api/v1/github/profiles/113780412/views/day-week-month-total-count.svg)](https://u8views.com/github/Olena457)
