@@ -21,8 +21,6 @@ _I have experience with technologies like_
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Olena457&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=Olena457&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Olena457&theme=default&color=4CAF50&bg_color=FFFFFF)
-
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Olena457&theme=dark)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Olena457&show_icons=true&theme=dark)
