@@ -1,5 +1,5 @@
 <div>
-    <img src="assets/banner.png" alt="Banner" style="width: 100%; ">
+    <img src="assets/baner.png" alt="Banner" style="width: 100%; ">
 
 ### 💫 _About me_:
 
