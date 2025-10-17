@@ -5,7 +5,7 @@
 
 _Hello!_<br>_My name is Olena._<br>_I am a Junior <strong>Frontend Developer</strong> with solid knowledge of_ <strong> HTML, CSS, JavaScript, React, Redux, Vue.js, TypeScript</strong> <br>
 _I have experience with technologies like_
-<strong> Next.js. Express.js, Mongodb, SQL, Node.js, Firebase, MUI, Tailwind, CSS3, SaaS, Grid,GSAP.</strong> <br> _I am constantly enhancing my experience and exploring new technologies._
+<strong> Next.js. Express.js, Mongodb, SQL, Node.js, Firebase, MUI, Tailwind, CSS3, SaaS, Grid, GSAP.</strong> <br> _I am constantly enhancing my experience and exploring new technologies._
 
 ### 🛠️ _Languages and Tools_ :
 
@@ -30,7 +30,6 @@ _I have experience with technologies like_
 ![PapaParse](https://img.shields.io/badge/PapaParse-FFC107.svg?style=flat&logo=javascript&logoColor=black)
 ![Recharts](https://img.shields.io/badge/Recharts-FF6384.svg?style=flat&logo=chart.js&logoColor=white)
 ![TensorFlow MobileNet](https://img.shields.io/badge/@tensorflow--models/mobilenet-FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)
-![Mistral AI](https://img.shields.io/badge/Mistral_AI-4B0082.svg?style=flat&logo=ai&logoColor=white) 
  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) 
  ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) 
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
