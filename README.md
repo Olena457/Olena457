@@ -3,9 +3,9 @@
 
 ### 💫 _About me_:
 
-_Hello!_<br>_My name is Olena._<br>_I am a Junior <strong>Frontend Developer</strong> with solid knowledge of_ <strong> HTML, CSS, JavaScript, React, Redux, Vue.js, TypeScript</strong> <br>
+_Hello!_<br>_My name is Olena._<br>_I am a Junior <strong>Frontend Developer</strong> with solid knowledge of_ <strong> HTML, CSS, MUI, Tailwind, JavaScript, React, Redux, Vue.js, TypeScript</strong> <br>
 _I have experience with technologies like_
-<strong> Next.js. Express.js, Mongodb, SQL, Node.js, Firebase, MUI, Tailwind, CSS3, SaaS, Grid, GSAP.</strong> <br> _I am constantly enhancing my experience and exploring new technologies._
+<strong> Next.js. Express.js, Mongodb, SQL, Node.js, Firebase, CSS3, SaaS, Grid, GSAP.</strong> <br> _I am constantly enhancing my experience and exploring new technologies._
 
 ### 🛠️ _Languages and Tools_ :
 
