@@ -6,18 +6,18 @@
 _Hello!_<br>_My name is Olena._<br>_I am a Junior **Full-stack Developer** with practical experience in building modern web applications. I focus on creating scalable architectures and robust backend systems._
 
 **Core Stack:**
-&#11034; **Frontend:** React, Next.js, TypeScript, Redux, Vue.js, Tailwind, MUI, SCSS.
-&#11034; **Backend:** Node.js, **NestJS**, Express.js.
-&#11034; **Database & DevOps:** PostgreSQL, Prisma ORM, **Docker**, Supabase, MongoDB, Firebase.
+* &#11034; **Frontend:** React, Next.js, TypeScript, Redux, Vue.js, Tailwind, MUI, SCSS.
+* &#11034; **Backend:** Node.js, **NestJS**, Express.js.
+* &#11034; **Database & DevOps:** PostgreSQL, Prisma ORM, **Docker**, Supabase, MongoDB, Firebase.
 
 **Current Focus:**
-I am currently deep-diving into **NestJS** and **PostgreSQL** to build high-performance server-side applications. I am actively working with **Monorepos** to manage complex systems and using **Docker** to containerize and streamline development environments.
+I am currently deep-diving into **NestJS** and **PostgreSQL** to build high-performance server-side applications.Actively working with **Monorepos** to manage complex systems and using **Docker** to containerize and streamline development environments.
 
 **Key Expertise:**
-* Building full-cycle applications from database schema design to deployment.
-* Managing database migrations and performance with **Prisma ORM** and **TypeORM**.
-* Developing interactive UIs with **GSAP** and **Canva** advanced CSS animation (SCSS, Grid).
-* Exploring architectural best practices and clean code principles.
+* &#11034; Building full-cycle applications from database schema design to deployment.
+* &#11034;  Managing database migrations and performance with **Prisma ORM** and **TypeORM**.
+* &#11034; Developing interactive UIs with **GSAP** and **Canva** advanced CSS animation (SCSS, Grid).
+* &#11034; Exploring architectural best practices and clean code principles.
 
 _I am constantly enhancing my experience and exploring new technologies._
 ---
