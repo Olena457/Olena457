@@ -13,3 +13,4 @@ jobs:
           template: classic
           base: header, community, repositories, metadata
           config_timezone: Europe/Kyiv
+          

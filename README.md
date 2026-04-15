@@ -6,9 +6,9 @@
 _Hello!_<br>_My name is Olena._<br>_I am a Junior **Full-stack Developer** with practical experience in building modern web applications. I focus on creating scalable architectures and robust backend systems._
 
 **Core Stack:**
-* **Frontend:** React, Next.js, TypeScript, Redux, Vue.js, Tailwind, MUI, SCSS.
-* **Backend:** Node.js, **NestJS**, Express.js.
-* **Database & DevOps:** PostgreSQL, Prisma ORM, **Docker**, Supabase, MongoDB, Firebase.
+&#11034; **Frontend:** React, Next.js, TypeScript, Redux, Vue.js, Tailwind, MUI, SCSS.
+&#11034; **Backend:** Node.js, **NestJS**, Express.js.
+&#11034; **Database & DevOps:** PostgreSQL, Prisma ORM, **Docker**, Supabase, MongoDB, Firebase.
 
 **Current Focus:**
 I am currently deep-diving into **NestJS** and **PostgreSQL** to build high-performance server-side applications. I am actively working with **Monorepos** to manage complex systems and using **Docker** to containerize and streamline development environments.
@@ -25,16 +25,16 @@ _I am constantly enhancing my experience and exploring new technologies._
 ### 🛠️ _Languages and Tools_ :
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%2385EA2D?style=flat&logo=swagger&logoColor=black)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748.svg?style=flat&logo=Prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?style=flat&logo=supabase&logoColor=white)
 ![AI](https://img.shields.io/badge/AI_Powered-%23000000.svg?style=flat&logo=openai&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-00E599.svg?style=flat&logo=neon&logoColor=black)
-![Swagger](https://img.shields.io/badge/-Swagger-%2385EA2D?style=flat&logo=swagger&logoColor=black)
 ![Resend](https://img.shields.io/badge/resend-000000.svg?style=flat&logo=resend&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=flat&logo=radix-ui&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23ffca28.svg?style=flat&logo=firebase&logoColor=black)
+![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=flat&logo=radix-ui&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 ![Recharts](https://img.shields.io/badge/recharts-22b5bf.svg?style=flat&logo=recharts&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) 
@@ -46,7 +46,7 @@ _I am constantly enhancing my experience and exploring new technologies._
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E.svg?style=flat&logo=vue.js&logoColor=4FC08D)
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB.svg?style=flat&logo=mui&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
+![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%23FA8072.svg?style=flat&logo=adobephotoshop&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
