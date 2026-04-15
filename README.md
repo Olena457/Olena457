@@ -11,7 +11,9 @@ _Hello!_<br>_My name is Olena._<br>_I am a Junior **Full-stack Developer** with 
 * &#11034; **Database & DevOps:** PostgreSQL, Prisma ORM, **Docker**, Supabase, MongoDB, Firebase.
 
 **Current Focus:**
-I am currently deep-diving into **NestJS** and **PostgreSQL** to build high-performance server-side applications.Actively working with **Monorepos** to manage complex systems and using **Docker** to containerize and streamline development environments.
+
+* _I am currently deep-diving into **NestJS** and **PostgreSQL** to build high-performance server-side applications._
+* _Actively working with **Monorepos** to manage complex systems and using **Docker** to containerize and streamline development environments._
 
 **Key Expertise:**
 * &#11034; Building full-cycle applications from database schema design to deployment.
