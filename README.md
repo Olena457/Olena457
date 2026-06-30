@@ -1,30 +1,35 @@
 <div>
-    <img src="assets/baner.png" alt="Banner" style="width: 100%; ">
+    <img src="assets/baner-2.jpg" alt="Banner" style="width: 100%; ">
 
 ### 💫 _About me_:
 
 _Hello!_<br>_My name is Olena._<br>_I am a Junior **Full-stack Developer** with practical experience in building modern web applications. I focus on creating scalable architectures and robust backend systems._
 
+**Portfolio:**
+💠 [View my portfolio](https://dev-journey-gamma.vercel.app)
+
 **Core Stack:**
 * &#11034; **Frontend:** React, Next.js, TypeScript, Redux, Vue.js, Tailwind, MUI, SCSS.
-* &#11034; **Backend:** Node.js, **NestJS**, Express.js.
-* &#11034; **Database & DevOps:** PostgreSQL, Prisma ORM, **Docker**, Supabase, MongoDB, Firebase.
+* &#11034; **Backend:** Node.js, NestJS, Express.js.
+* &#11034; **Database & DevOps:** PostgreSQL, Prisma ORM, Docker, Supabase, MongoDB, Firebase.
 
 **Current Focus:**
 
-* _I am currently deep-diving into **NestJS** and **PostgreSQL** to build high-performance server-side applications._
-* _Actively working with **Monorepos** to manage complex systems and using **Docker** to containerize and streamline development environments._
+* _I am currently deep-diving into **Python** and exploring various ways of **AI integration** to build smart, data-driven applications._
+* _Actively working with modern **AI models** and frameworks to seamlessly embed intelligent features into web ecosystems._
+
 
 **Key Expertise:**
 * &#11034; Building full-cycle applications from database schema design to deployment.
-* &#11034;  Managing database migrations and performance with **Prisma ORM** and **TypeORM**.
-* &#11034; Developing interactive UIs with **GSAP** and **Canva** advanced CSS animation (SCSS, Grid).
+* &#11034;  Managing database migrations and performance with Prisma ORM and TypeORM.
+* &#11034; Developing interactive UIs with GSAP and Canva advanced CSS animation (SCSS, Grid).
 * &#11034; Exploring architectural best practices and clean code principles.
 
 _I am constantly enhancing my experience and exploring new technologies._
 ---
 
 ### 🛠️ _Languages and Tools_ :
+![Storybook](https://img.shields.io/badge/-Storybook-%23FF4785?style=flat&logo=storybook&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%2385EA2D?style=flat&logo=swagger&logoColor=black)
@@ -80,4 +85,22 @@ _I am constantly enhancing my experience and exploring new technologies._
 
 
 
+___
+
+
+
+  <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Olena457&theme=vivid" width="48%" style="border-radius: 10px; border: 1px solid #0077B5; box-shadow: 0 4px 15px rgba(243, 234, 234, 0.1); margin-bottom: 10px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Olena457&theme=vivid" width="48%" style="border-radius: 10px; border: 1px solid #0077B5; box-shadow: 0 4px 15px rgba(243, 234, 234, 0.1); margin-bottom: 10px;" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Olena457&theme=vivid" width="48%" style="border-radius: 10px; border: 1px solid #0077B5; box-shadow: 0 4px 15px rgba(243, 234, 234, 0.1);" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Olena457&theme=vivid&utcOffset=3" width="48%" style="border-radius: 10px; border: 1px solid #0077B5; box-shadow: 0 4px 15px rgba(243, 234, 234, 0.1);" />
+</p>
+
+### 🔥 GitHub Streak & Top Languages
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Olena457&theme=tokyonight&hide_border=true" width="48%" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(243, 234, 234, 0.1);" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olena457&langs_count=10&theme=tokyonight&hide_border=false" width="48%" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(243, 234, 234, 0.1);" />
+</div>
 
