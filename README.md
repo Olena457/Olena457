@@ -79,7 +79,8 @@ _I am constantly enhancing my experience and exploring new technologies._
 
 
 
-### 📶 _GitHub stats_:
+###  _GitHub stats_:
+
 
 ![GitHub Metrics](github-metrics.svg)
 
@@ -88,8 +89,9 @@ _I am constantly enhancing my experience and exploring new technologies._
 
 
 
-  ---
-
+<div style="text-align: center; margin: 40px 0;">
+  <div style="width: 100%; height: 3px; background: linear-gradient(45deg, #667eea, #764ba2); margin: 0 auto; border-radius: 2px;"></div>
+</div>
 
 <p align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; max-width: 900px; margin: 0 auto;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Olena457&theme=github_dark&title_color=0077B5" style="width: 100%;" />
@@ -98,11 +100,11 @@ _I am constantly enhancing my experience and exploring new technologies._
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Olena457&theme=github_dark&utcOffset=3&title_color=0077B5&text_color=00C4CC" style="width: 100%;" />
 </p>
 
-
----
+<div style="text-align: center; margin: 40px 0;">
+  <div style="width: 100%; height: 3px; background: linear-gradient(45deg, #667eea, #764ba2); margin: 0 auto; border-radius: 2px;"></div>
+</div>
 
  
-
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Olena457&theme=tokyonight&hide_border=true" width="48%" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(243, 234, 234, 0.1);" />
