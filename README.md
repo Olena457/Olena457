@@ -93,10 +93,10 @@ _I am constantly enhancing my experience and exploring new technologies._
 
 
 <div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; max-width: 1200px; margin: 0 auto;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Olena457&theme=github_dark&title_color=0077B5" style="width: 49%;" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Olena457&theme=github_dark&title_color=0077B5" style="width: 49%;" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Olena457&theme=github_dark&title_color=0077B5&text_color=00C4CC" style="width: 49%;" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Olena457&theme=github_dark&utcOffset=3&title_color=0077B5&text_color=00C4CC" style="width: 49%;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Olena457&theme=github_dark&title_color=0077B5" style="width: 45%;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Olena457&theme=github_dark&title_color=0077B5" style="width: 45%;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Olena457&theme=github_dark&title_color=0077B5&text_color=00C4CC" style="width: 45%;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Olena457&theme=github_dark&utcOffset=3&title_color=0077B5&text_color=00C4CC" style="width: 45%;" />
 </div>
 
 
@@ -108,6 +108,6 @@ _I am constantly enhancing my experience and exploring new technologies._
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Olena457&theme=tokyonight&hide_border=true" width="48%" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(243, 234, 234, 0.1);" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Olena457&theme=github_dark&hide_border=true" width="50%" />
 </div>
 
