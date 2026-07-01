@@ -3,6 +3,8 @@
 
 ### 💫 _About me_:
 
+***
+
 _Hello!_<br>_My name is Olena._<br>_I am a Junior **Full-stack Developer** with practical experience in building modern web applications. I focus on creating scalable architectures and robust backend systems._
 
 **Portfolio:**
@@ -26,7 +28,9 @@ _Hello!_<br>_My name is Olena._<br>_I am a Junior **Full-stack Developer** with 
 * &#11034; Exploring architectural best practices and clean code principles.
 
 _I am constantly enhancing my experience and exploring new technologies._
----
+
+
+***
 
 ### 🛠️ _Languages and Tools_ :
 ![Storybook](https://img.shields.io/badge/-Storybook-%23FF4785?style=flat&logo=storybook&logoColor=white)
@@ -70,6 +74,10 @@ _I am constantly enhancing my experience and exploring new technologies._
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 
 
+
+***
+
+
 ### 📧 _Reach me out_:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olena-demianenko0808-383991312/)
@@ -77,6 +85,8 @@ _I am constantly enhancing my experience and exploring new technologies._
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white&label=olena__91474)](https://discordapp.com/users/1378993110700523570)
 
 
+
+***
 
 
 ###  _GitHub stats_:
@@ -89,7 +99,7 @@ _I am constantly enhancing my experience and exploring new technologies._
 
 
 
----
+***
 
 
 <div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; max-width: 1200px; margin: 0 auto;">
@@ -102,7 +112,7 @@ _I am constantly enhancing my experience and exploring new technologies._
 
 
 
----
+***
 
 
 
