@@ -89,6 +89,8 @@ _I am constantly enhancing my experience and exploring new technologies._
 ***
 
 
+
+
 ###  _GitHub stats_:
 
 
@@ -121,3 +123,16 @@ _I am constantly enhancing my experience and exploring new technologies._
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Olena457&theme=github_dark&hide_border=true" width="50%" />
 </div>
 
+
+***
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Olena457&style=flat-square&color=blue" />
+</div>
+
+<br/>
+
+
+***
