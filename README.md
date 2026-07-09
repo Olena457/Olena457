@@ -17,9 +17,8 @@ _Hello!_<br>_My name is Olena._<br>_I am a Junior **Full-stack Developer** with 
 
 **Current Focus:**
 
-* _I am currently deep-diving into **Python** and exploring various ways of **AI integration** to build smart, data-driven applications._
-* _Actively working with modern **AI models** and frameworks to seamlessly embed intelligent features into web ecosystems._
-
+* _I am currently deep-diving into **Python** while mastering **AI integration** techniques to design smart, data-driven applications._
+* _Actively exploring **LangChain**, **LangGraph**, and **LangSmith** to embed intelligent features seamlessly into modern web ecosystems._
 
 **Key Expertise:**
 * &#11034; Building full-cycle applications from database schema design to deployment.
