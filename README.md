@@ -17,8 +17,8 @@ _Hello!_<br>_My name is Olena._<br>_I am a Junior **Full-stack Developer** with 
 
 **Current Focus:**
 
-* _I am currently deep-diving into **Python** while mastering **AI integration** techniques to design smart, data-driven applications._
-* _Actively exploring **LangChain**, **LangGraph**, and **LangSmith** to embed intelligent features seamlessly into modern web ecosystems._
+* _I’m currently working on: A new AI-driven application using **LangChain**, **LangGraph** and **LangSmith** to embed intelligent features into modern web ecosystems._
+
 
 **Key Expertise:**
 * &#11034; Building full-cycle applications from database schema design to deployment.
@@ -32,6 +32,8 @@ _I am constantly enhancing my experience and exploring new technologies._
 ***
 
 ### 🛠️ _Languages and Tools_ :
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Storybook](https://img.shields.io/badge/-Storybook-%23FF4785?style=flat&logo=storybook&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
