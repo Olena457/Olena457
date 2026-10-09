@@ -12,19 +12,21 @@ _Hello!_<br>_My name is Olena._<br>_I am a Junior **Full-stack Developer** with 
 
 **Core Stack:**
 * &#11034; **Frontend:** React, Next.js, TypeScript, Redux, Vue.js, Tailwind, MUI, SCSS.
-* &#11034; **Backend:** Node.js, NestJS, Express.js.
+* &#11034; **Backend:** Node.js, NestJS, Express.js, Python (FastAPI).
 * &#11034; **Database & DevOps:** PostgreSQL, Prisma ORM, Docker, Supabase, MongoDB, Firebase.
 
 **Current Focus:**
 
-* _I’m currently working on: A new AI-driven application using **LangChain**, **LangGraph** and **LangSmith** to embed intelligent features into modern web ecosystems._
+**Current Focus:**
 
+* _I am currently exploring **AWS services and cloud architecture** (serverless computing, storage, and deployment workflows) to migrate and scale  AI workloads efficiently in the cloud._
 
 **Key Expertise:**
-* &#11034; Building full-cycle applications from database schema design to deployment.
-* &#11034;  Managing database migrations and performance with Prisma ORM and TypeORM.
-* &#11034; Developing interactive UIs with GSAP and Canva advanced CSS animation (SCSS, Grid).
-* &#11034; Exploring architectural best practices and clean code principles.
+* &#11034; **Full-Stack & Cloud Architecture:** Building end-to-end scalable applications using TypeScript, JavaScript, and Python from database schema design to cloud deployment.
+* &#11034; **AI & Workflow Automation:** Developing intelligent systems, multi-agent AI workflows, and task automation pipelines  and AI frameworks.
+* &#11034; **Database & ORM Management:** Managing complex database migrations, schema optimization, and query performance with Prisma ORM, TypeORM.
+* &#11034; **Interactive UI & Modern Web:** Crafts high-performance, reactive user interfaces with custom animations, modern CSS architectures, and responsive layouts.
+* &#11034; **Clean Code & Best Practices:** Applying domain-driven design, clean architecture, and modular coding standards to ensure long-term system maintainability.
 
 _I am constantly enhancing my experience and exploring new technologies._
 
@@ -32,9 +34,15 @@ _I am constantly enhancing my experience and exploring new technologies._
 ***
 
 ### 🛠️ _Languages and Tools_ :
+![LangGraph](https://img.shields.io/badge/LangGraph-24292E?style=flat&logo=langchain&logoColor=FF69B4)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Cursor](https://img.shields.io/badge/Cursor-000000.svg?style=flat&logo=cursor&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-%23D97757.svg?style=flat&logo=anthropic&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4B0082.svg?style=flat&logo=spacex&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-%234945FF.svg?style=flat&logo=strapi&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-%23FF4785?style=flat&logo=storybook&logoColor=white)
+![Tavily](https://img.shields.io/badge/Tavily-%230055FF.svg?style=flat&logo=search&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%2385EA2D?style=flat&logo=swagger&logoColor=black)
