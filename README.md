@@ -5,7 +5,11 @@
 
 ***
 
-_Hello!_<br>_My name is Olena._<br>_I am a Junior **Full-stack Developer** with practical experience in building modern web applications. I focus on creating scalable architectures and robust backend systems._
+_Hello!_<br>_My name is Olena._<br>_I am a dedicated and passionate **Full-Stack Developer** with 2 years of hands-on software development experience, including a 6-month internship. I am deeply focused on engineering scalable backend systems, modern web architectures, and high-performance applications._
+
+_Driven by a strong passion for coding, I actively build and integrate **AI-driven solutions and automation workflows** into web ecosystems. My core goal is to optimize complex routine tasks, boost business efficiency, and deliver seamless, intelligent user experiences._
+
+***
 
 **Portfolio:**
 💠 [View my portfolio](https://dev-journey-gamma.vercel.app)
@@ -73,7 +77,6 @@ _I am constantly enhancing my experience and exploring new technologies._
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
-![MariaDB](https://img.shields.io/badge/MariaDB-%230075C5.svg?style=flat&logo=mariadb&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
